@@ -58,25 +58,3 @@ Os resultados mostram que:
 
 📌 **Conclusão:**  
 Os MFCC se mostraram uma ferramenta **eficiente e robusta** para a caracterização e distinção dos sinais de voz analisados.
-
-## ▶️ Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/mfcc-sinais-de-voz.git
-````
-
-2. Instale as dependências:
-
-```bash
-pip install numpy scipy librosa matplotlib
-```
-
-3. Abra o notebook:
-
-```bash
-jupyter notebook MFCC_Voz.ipynb
-```
-
-4. Execute todas as células para gerar os gráficos e resultados.
-
